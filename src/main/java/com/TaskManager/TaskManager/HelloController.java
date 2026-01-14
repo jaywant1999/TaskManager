@@ -8,6 +8,6 @@ public class HelloController {
 
 	@GetMapping("/hello")
 	String hello() {
-		return "Hello I Am Task MAnager";
+		return "Hello I Am Task Manager";
 	}
 }
