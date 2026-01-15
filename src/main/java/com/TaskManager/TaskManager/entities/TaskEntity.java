@@ -1,6 +1,6 @@
 package com.TaskManager.TaskManager.entities;
 
-import java.util.Date;
+import java.util.Date; 
 
 import lombok.Data;
 
@@ -12,7 +12,6 @@ public class TaskEntity {
 	private String description;
 	private Date deadline;
 	private boolean completed;
-	
-	
+ 
 
 }
